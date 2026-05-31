@@ -24,3 +24,15 @@ Egg > Hatchling > Coder > Developer > Engineer > Super Coder
 
 ## License
 MIT
+
+## Obsidian Integration (Optional)
+
+CoderSensei can write structured lesson notes directly to your Obsidian vault after every session.
+
+What gets saved automatically:
+- Lesson notes with frontmatter (title, tags, date, quiz score)
+- Your personal progress tracker (XP, rank, full curriculum checklist)
+- Your teaching style preferences — carries forward every session
+- Weak spots flagged for review
+
+Just tell CoderSensei your Obsidian vault path at /start and it handles the rest. No plugins needed.
