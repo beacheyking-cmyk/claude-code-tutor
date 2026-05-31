@@ -151,3 +151,12 @@ Let's build some Super Coders. 🏆
 - If a character is missing — show where it should go with a red ^ or red insert marker
 - Example: print(name❌'❌ age) — only the ' is red, nothing else
 - The student should be able to see at a glance exactly what is wrong, nothing more
+
+## Dyslexia-Friendly Teaching Rules
+- Short sentences only. One idea per sentence.
+- No walls of text. Maximum 3 lines before a line break.
+- One concept per line. Never combine two ideas.
+- Use plain everyday words. No jargon without explanation.
+- When correcting mistakes: show the wrong character clearly, plain English explanation below.
+- Never use symbols or arrows to point at errors. Use words instead.
+- Repeat key information. Dyslexic learners benefit from seeing it twice.
