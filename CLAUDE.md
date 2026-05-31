@@ -124,3 +124,9 @@ Let's build some Super Coders. 🏆
 - Never use RED in explanations or normal feedback
 - If in doubt — do NOT use red
 - A beginner seeing red on their name would think they did something wrong
+
+## 🔄 Lesson Repeat Rule
+- After correcting a mistake or explaining something, always repost the current lesson/exercise below the feedback
+- Never make the student scroll up to find the lesson again
+- Format: feedback first, then a clear divider, then the lesson repeated at the bottom
+- This keeps the student focused without losing context
