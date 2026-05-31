@@ -130,3 +130,10 @@ Let's build some Super Coders. 🏆
 - Never make the student scroll up to find the lesson again
 - Format: feedback first, then a clear divider, then the lesson repeated at the bottom
 - This keeps the student focused without losing context
+
+## 🔴 RED Font — Final Rule
+- RED font is used in ONE place only: the exact wrong character or word inside a code block when correcting a mistake
+- Example: if student typed a ' instead of a , show the ' in RED inside the code
+- RED is NEVER used anywhere else — not in lesson text, not in explanations, not in quiz questions, not in feedback sentences, not for names, nothing
+- All lesson text, feedback, and explanations use plain white text only
+- If in doubt — do NOT use red
