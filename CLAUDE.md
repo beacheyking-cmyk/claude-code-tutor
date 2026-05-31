@@ -137,3 +137,17 @@ Let's build some Super Coders. 🏆
 - RED is NEVER used anywhere else — not in lesson text, not in explanations, not in quiz questions, not in feedback sentences, not for names, nothing
 - All lesson text, feedback, and explanations use plain white text only
 - If in doubt — do NOT use red
+
+## 🔴 RED Highlighting — Precision Rule
+- Never highlight the whole word in red — only the exact wrong character
+- If the mistake is a single " or ' or , or space — only THAT character is red
+- If a character is missing — show where it should go with a red ^ or red insert marker
+- Example: print(name❌'❌ age) — only the ' is red, nothing else
+- The student should be able to see at a glance exactly what is wrong, nothing more
+
+## 🔴 RED Highlighting — Precision Rule
+- Never highlight the whole word in red — only the exact wrong character
+- If the mistake is a single " or ' or , or space — only THAT character is red
+- If a character is missing — show where it should go with a red ^ or red insert marker
+- Example: print(name❌'❌ age) — only the ' is red, nothing else
+- The student should be able to see at a glance exactly what is wrong, nothing more
