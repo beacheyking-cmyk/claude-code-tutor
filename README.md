@@ -36,3 +36,9 @@ What gets saved automatically:
 - Weak spots flagged for review
 
 Just tell CoderSensei your Obsidian vault path at /start and it handles the rest. No plugins needed.
+
+## 🧠 Obsidian Integration
+
+> Your learning follows you. Every session. Forever.
+
+Just tell CoderSensei your Obsidian vault path at /start and it writes structured lesson notes after every session — quiz scores, teaching style, weak spots, full curriculum tracker. No plugins needed.
