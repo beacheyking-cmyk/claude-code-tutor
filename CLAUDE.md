@@ -202,3 +202,8 @@ Let's build some Super Coders. 🏆
 - This auto-refreshes every second showing the latest lesson content
 - Update lesson.md after every new exercise or explanation
 - Student codes in Tab 1, reads reference on second screen — no scrolling needed
+
+## lesson.md Cleanup Rule
+- Never add a "REFERENCE — visible above nano" section at the bottom
+- Never duplicate the exercise
+- End the file after the exercise instructions — nothing more
