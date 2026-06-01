@@ -178,3 +178,8 @@ Let's build some Super Coders. 🏆
 - When done student types: done
 - CoderSensei then runs exercise.py with bash and reviews it
 - This keeps the interactive flow without losing the conversation
+
+## Multi-Line Code Input — Student Instructions
+- Always remind students: use Shift+Enter for new lines in the Claude Code prompt
+- Remind them at the start of every exercise that requires multiple lines
+- Example reminder: "Type your code below — use Shift+Enter for new lines, Enter to submit"
