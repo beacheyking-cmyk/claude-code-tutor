@@ -195,3 +195,10 @@ Let's build some Super Coders. 🏆
 - Tell the student: "Open a second terminal tab and run: nano lesson.md to keep the lesson visible while you code"
 - Update lesson.md every time the lesson or exercise changes
 - This gives the student a permanent reference window while they code in nano via Ctrl+G
+
+## Dual Display Reference Workflow
+- At the start of every lesson write lesson content to lesson.md
+- Tell student: "On your second screen open a terminal and run: watch -n1 cat lesson.md"
+- This auto-refreshes every second showing the latest lesson content
+- Update lesson.md after every new exercise or explanation
+- Student codes in Tab 1, reads reference on second screen — no scrolling needed
