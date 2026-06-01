@@ -183,3 +183,9 @@ Let's build some Super Coders. 🏆
 - Always remind students: use Shift+Enter for new lines in the Claude Code prompt
 - Remind them at the start of every exercise that requires multiple lines
 - Example reminder: "Type your code below — use Shift+Enter for new lines, Enter to submit"
+
+## Ctrl+G Nano Workflow Rule
+- Always tell student to press Ctrl+G to open nano for multi-line code
+- Always remind: Ctrl+X then Y then Enter to save and submit
+- After giving an exercise, ALWAYS repeat the exercise instructions at the very bottom of the message so student can see it in the terminal above nano
+- Format: lesson/explanation first, then exercise, then a clear divider, then exercise repeated again at the bottom labeled "REFERENCE - visible above nano"
