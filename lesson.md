@@ -1,41 +1,35 @@
-# Level 1 — Variables
+# Level 1 — Lesson 1.7: Joining Strings (+)
 
-A variable is a box that stores a value.
-You give the box a name. You put something inside.
-
-```python
-name = "Steven"
-age = 25
-```
-
-- `name` holds the text "Steven"
-- `age` holds the number 25
-
-To see what's inside, use print():
+You can stick two strings together using +.
 
 ```python
-print(name)
-print(age)
+first = "Good"
+second = "morning"
+print(first + " " + second)
 ```
+
+Output: Good morning
+
+The + joins them in order.
+The " " adds a space between them.
 
 ---
 
-## Your Exercise
+## Exercise
 
 Create two variables:
-- `my_name` — your name as a string
-- `my_age` — your age as a number
+- one called greeting with the value "Hello"
+- one called name with your name
 
-Then print both.
+Join them with a space and print the result.
+
+Expected output: Hello Steven
 
 ---
 
-REFERENCE (visible above nano):
+## REFERENCE — visible above nano
 
-Create two variables:
-  my_name = "your name here"
-  my_age = your age here
-
-Then print both with print().
-
-Press Ctrl+G to open nano, Ctrl+X then Y then Enter to save.
+Exercise:
+1. greeting = "Hello"
+2. name = "your name"
+3. print(greeting + " " + name)

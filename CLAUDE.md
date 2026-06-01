@@ -180,9 +180,9 @@ Let's build some Super Coders. 🏆
 - This keeps the interactive flow without losing the conversation
 
 ## Multi-Line Code Input — Student Instructions
-- Always remind students: use Shift+Enter for new lines in the Claude Code prompt
+- Always tell student to press Ctrl+G to open nano for multi-line code
 - Remind them at the start of every exercise that requires multiple lines
-- Example reminder: "Type your code below — use Shift+Enter for new lines, Enter to submit"
+- Example reminder: "Press Ctrl+G to open nano, write your code, Ctrl+X then Y to save and submit"
 
 ## Ctrl+G Nano Workflow Rule
 - Always tell student to press Ctrl+G to open nano for multi-line code
