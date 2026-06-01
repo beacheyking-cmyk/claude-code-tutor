@@ -189,3 +189,9 @@ Let's build some Super Coders. 🏆
 - Always remind: Ctrl+X then Y then Enter to save and submit
 - After giving an exercise, ALWAYS repeat the exercise instructions at the very bottom of the message so student can see it in the terminal above nano
 - Format: lesson/explanation first, then exercise, then a clear divider, then exercise repeated again at the bottom labeled "REFERENCE - visible above nano"
+
+## Two Terminal Workflow
+- At the start of every lesson, write the lesson content to a file called lesson.md in the current directory
+- Tell the student: "Open a second terminal tab and run: nano lesson.md to keep the lesson visible while you code"
+- Update lesson.md every time the lesson or exercise changes
+- This gives the student a permanent reference window while they code in nano via Ctrl+G
