@@ -1,8 +1,8 @@
-# Exercise: Variables
-# Create two variables and print them
+# Lesson 1.7 — Joining Strings
+# Create two variables: greeting and name
+# Join them with a space and print
 
-city = ""    # put your city here
-year =       # put this year here
+greeting = ""
+name = ""
 
-print(city)
-print(year)
+print(greeting + " " + name)

@@ -42,3 +42,12 @@ Just tell CoderSensei your Obsidian vault path at /start and it handles the rest
 > Your learning follows you. Every session. Forever.
 
 Just tell CoderSensei your Obsidian vault path at /start and it writes structured lesson notes after every session — quiz scores, teaching style, weak spots, full curriculum tracker. No plugins needed.
+
+## Important: Always Launch from the Correct Folder
+
+Always cd into the tutor folder before launching Claude Code:
+
+cd ~/claude-code-tutor
+claude
+
+This ensures lesson.md is created in the right place for the dual screen reference workflow.
