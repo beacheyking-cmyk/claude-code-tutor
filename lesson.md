@@ -1,32 +1,28 @@
-# Lesson 1.7 — Joining Strings with +
+# Lesson 1.8 — .count()
 
-## What is string joining?
-
-You can stick two strings together using +.
-
-This is called concatenation.
+## What it does
+.count() counts how many times a letter or word appears in a string.
 
 ## Example
-
 ```python
-first = "Good"
-second = "morning"
-print(first + " " + second)
+word = "banana"
+print(word.count("a"))
 ```
+Output: `3`
 
-Output: `Good morning`
+There are 3 a's in "banana".
 
-The + joins them in order.
-The " " adds a space between.
+## Another example
+```python
+sentence = "the cat sat on the mat"
+print(sentence.count("the"))
+```
+Output: `2`
 
 ## Exercise
+Create a variable called message.
+Set it to "hello world".
+Count how many times the letter "l" appears.
+Print the result.
 
-Create two variables:
-- `greeting` with the value "Hello"
-- `name` with your own name
-
-Join them with a space and print the result.
-
-Expected output: `Hello Steven`
-
-Type: done when finished.
+Expected output: 3

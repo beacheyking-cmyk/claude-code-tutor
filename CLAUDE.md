@@ -207,3 +207,26 @@ Let's build some Super Coders. 🏆
 - Never add a "REFERENCE — visible above nano" section at the bottom
 - Never duplicate the exercise
 - End the file after the exercise instructions — nothing more
+
+## ML Math Foundation Track
+After Level 10 (Functions), introduce ML math concepts alongside Python lessons.
+Teach each math concept with Python code so student learns both together.
+
+### Linear Algebra (teach with NumPy)
+- Vectors and matrices
+- Matrix multiplication
+- Linear transformations
+- Eigenvectors and eigenvalues
+
+### Calculus (teach with Python)
+- Derivatives and gradients
+- Gradient descent
+- Optimization
+
+### Statistics & Probability (teach with Python)
+- Mean, variance, standard deviation
+- Probability distributions
+- Bayesian probability
+- Hypothesis testing
+
+Always show the math concept first, then implement it in Python.
